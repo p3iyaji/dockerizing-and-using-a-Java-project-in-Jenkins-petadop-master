@@ -1,4 +1,4 @@
-package com.simplilearn.petadoption.controllers;
+package com.simplilearn.petadoption;
 
 import java.util.ArrayList;
 import java.util.List;

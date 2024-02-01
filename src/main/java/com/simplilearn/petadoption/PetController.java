@@ -1,4 +1,4 @@
-package com.simplilearn.petadoption.controllers;
+package com.simplilearn.petadoption;
 
 import java.sql.Date;
 import java.text.ParseException;

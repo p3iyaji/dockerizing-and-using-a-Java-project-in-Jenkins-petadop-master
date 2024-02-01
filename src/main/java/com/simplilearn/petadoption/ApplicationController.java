@@ -1,4 +1,4 @@
-package com.simplilearn.petadoption.controllers;
+package com.simplilearn.petadoption;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
